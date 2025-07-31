@@ -5,3 +5,5 @@
 ## Bölüm 2. Üretken Yapay Zeka ile Dijital Dönüşüm: Geleceğin Kariyer Alanları
 
 ## Yayın Evi: BİDGE Yayınları, 2025
+
+## Editör:
