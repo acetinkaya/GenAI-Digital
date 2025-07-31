@@ -19,6 +19,6 @@
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
 - [**Dr. Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)
-  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, 
+  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektronik 
 
 ---
