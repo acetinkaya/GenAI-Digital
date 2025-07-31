@@ -6,4 +6,4 @@
 
 ## Yayın Evi: BİDGE Yayınları, 2025
 
-## Editör: Dr. Eyyüp 
+## Editör: Dr. Eyyüp GÜLBANDILAR
