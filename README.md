@@ -22,6 +22,6 @@
   İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektronik Mühendisliği Bölümü, İstanbul / Türkiye
   Department of Electrical and Electronics Engineering, Faculty of Engineering and Architecture, Istanbul, Turkey
 
-For 
+For Correspondence: 
 
 ---
