@@ -1,3 +1,3 @@
 # GenAI-Digital
 
-## Üretken Yapay Zeka 
+## Üretken Yapay Zeka ile 
