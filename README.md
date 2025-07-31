@@ -7,3 +7,6 @@
 ## Yayın Evi: BİDGE Yayınları, 2025
 
 ## Editör: Dr. Eyyüp GÜLBANDILAR
+
+![AlternatifMetin](https://github.com/acetinkaya/GenAI-Digital/blob/main/kapak1.png)
+
