@@ -4,7 +4,7 @@
 
 ## Kitap İsmi: Yeni Nesil Yapay Zekâ Yaklaşımları: Yazılım, Kariyer ve Sinirsel Mimariler Üzerine
 
-## Bölüm 2. 
+## Bölüm 2. Üretken 
 
 
 
