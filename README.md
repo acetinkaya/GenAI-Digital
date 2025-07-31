@@ -2,7 +2,7 @@
 
 ## Kitap İsmi: YENİ NESİL YAPAY ZEKÂ YAKLAŞIMLARI: YAZILIM, KARİYER VE SİNİRSEL MİMARİLER ÜZERİNE KİTABI, BÖLÜM 2. ÜRETKEN YAPAY ZEKA İLE DİJİTAL DÖNÜŞÜM: GELECEĞİN KARİYER ALANLARI
 
-## Kitap İsmi: Yeni Nesil Yapay Zekâ Yaklaşımları: 
+## Kitap İsmi: Yeni Nesil Yapay Zekâ Yaklaşımları: Yazılım, 
 
 
 
