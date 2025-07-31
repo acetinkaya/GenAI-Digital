@@ -14,4 +14,6 @@
 
 ## 2. Bölüm Yazarları / Chapter 2. Authors
 
-- [**Ali Çetinkaya**]
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
+
+---
