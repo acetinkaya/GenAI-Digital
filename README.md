@@ -20,5 +20,6 @@
 
 - [**Dr. Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)
   İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektronik Mühendisliği Bölümü, İstanbul / Türkiye
-  Department of Electrical and Electronics 
+  Department of Electrical and Electronics Engineering, 
+
 ---
