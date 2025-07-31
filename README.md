@@ -6,4 +6,4 @@
 
 ## Yayın Evi: BİDGE Yayınları, 2025
 
-## Editör:
+## Editör: Dr. 
