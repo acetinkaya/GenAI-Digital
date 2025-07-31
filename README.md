@@ -12,4 +12,4 @@
 
 ----
 
-## Bölüm
+## Bölüm 2. Yazarları 
