@@ -4,7 +4,8 @@
 
 ## Kitap İsmi: Yeni Nesil Yapay Zekâ Yaklaşımları: Yazılım, Kariyer ve Sinirsel Mimariler Üzerine
 
-## Bölüm 2. Üretken Yapay Zeka ile Dijital 
+## Bölüm 2. Üretken Yapay Zeka ile Dijital Dönüşüm: 
+
 
 
 ## Yayın Evi: Nobel Akademik Yayıncılık, 2024
