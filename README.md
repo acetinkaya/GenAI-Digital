@@ -4,4 +4,4 @@
 
 ## Bölüm 2. Üretken Yapay Zeka ile Dijital Dönüşüm: Geleceğin Kariyer Alanları
 
-## Yayın Evi: Nobel Akademik Yayıncılık, 2024
+## Yayın Evi: 
