@@ -1,3 +1,3 @@
 # GenAI-Digital
 
-## Üretken Yapay Zeka ile Dijital Dönüşüm:
+## Üretken Yapay Zeka ile Dijital Dönüşüm: Geleceğin Kariyer 
