@@ -1,3 +1,3 @@
 # GenAI-Digital
 
-## Üretken 
+## Üretken Yapay Zeka 
