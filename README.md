@@ -10,7 +10,7 @@
 
 ## ISBN No: 978-625-372-677-5
 
-## Kitap Erişim Adresi: 
+## [Kitap Erişim Adresi]
 
 ![AlternatifMetin](https://github.com/acetinkaya/GenAI-Digital/blob/main/kapak1.png)
 
