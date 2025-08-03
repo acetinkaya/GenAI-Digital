@@ -22,8 +22,8 @@
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye      
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey    
 
-- [**Dr. Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)    
-  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektronik Mühendisliği Bölümü, İstanbul / Türkiye
+- [**Dr. Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)       
+  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektronik Mühendisliği Bölümü, İstanbul / Türkiye    
   Department of Electrical and Electronics Engineering, Faculty of Engineering and Architecture, Istanbul, Turkey
 
 For Correspondence: alcetinkaya@gelisim.edu.tr   
