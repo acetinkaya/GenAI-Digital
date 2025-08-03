@@ -19,7 +19,7 @@
 ## 2. Bölüm Yazarları / Chapter 2. Authors     
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye    
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
 - [**Dr. Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)    
