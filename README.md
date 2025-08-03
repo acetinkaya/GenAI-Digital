@@ -8,7 +8,7 @@
 
 ## Editör: Dr. Eyyüp GÜLBANDILAR
 
-## ISBN 
+## ISBN No: 
 
 ![AlternatifMetin](https://github.com/acetinkaya/GenAI-Digital/blob/main/kapak1.png)
 
