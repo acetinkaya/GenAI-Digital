@@ -33,3 +33,5 @@ For Correspondence: alcetinkaya@gelisim.edu.tr
 ![AlternatifMetin](https://github.com/acetinkaya/GenAI-Digital/blob/main/Giris.png)
 
 ---
+
+![AlternatifMetin](https://github.com/acetinkaya/GenAI-Digital/blob/main/kapak2.png)
